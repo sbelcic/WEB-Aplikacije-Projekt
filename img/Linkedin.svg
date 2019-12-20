@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1024.000000pt"
+   height="1024.000000pt"
+   viewBox="0 0 1024.000000 1024.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg3818"
+   sodipodi:docname="Linkedin.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs3822" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3820"
+     showgrid="false"
+     inkscape:zoom="0.17285156"
+     inkscape:cx="682.66667"
+     inkscape:cy="682.66667"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3818" />
+  <metadata
+     id="metadata3812">
+Created by potrace 1.15, written by Peter Selinger 2001-2017
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     transform="translate(0.000000,1024.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g3816">
+    <path
+       d="M1350 10233 c-332 -53 -566 -156 -803 -352 -254 -210 -431 -502 -520 -859 l-21 -87 -3 -3770 c-3 -3709 -3 -3772 16 -3886 107 -629 590 -1121 1231 -1256 81 -17 274 -18 3870 -18 3596 0 3789 1 3870 18 641 135 1123 626 1231 1255 19 112 19 195 19 3842 0 3647 0 3730 -19 3842 -107 621 -567 1099 -1204 1251 l-92 22 -3775 1 c-2076 1 -3786 0 -3800 -3z m4075 -453 c-27 -10 -1125 -387 -2440 -838 -1314 -452 -2415 -830 -2447 -841 l-56 -19 20 71 c26 96 96 274 148 378 106 210 234 389 403 565 374 389 846 623 1387 689 81 10 447 13 1570 13 1426 1 1464 0 1415 -18z m-2697 -1255 c264 -56 455 -199 563 -421 173 -353 85 -763 -213 -992 -212 -163 -542 -221 -833 -147 -308 78 -524 297 -590 598 -21 97 -16 310 9 402 103 368 455 598 889 579 59 -2 138 -11 175 -19z m4567 -2125 c549 -62 967 -315 1242 -755 97 -153 199 -417 247 -635 73 -332 78 -470 74 -2060 l-3 -1305 -775 0 -775 0 -5 1380 c-6 1502 -3 1419 -61 1617 -83 281 -253 455 -508 519 -73 18 -105 21 -235 17 -131 -4 -162 -8 -231 -32 -219 -75 -382 -223 -496 -451 -89 -180 -83 -55 -86 -1648 l-4 -1407 -772 2 -772 3 0 2327 0 2328 773 0 772 0 0 -327 0 -327 51 75 c150 218 338 392 542 503 178 97 353 147 622 179 67 8 316 6 400 -3z m-4017 -2427 l-3 -2328 -772 -3 -773 -2 0 2330 0 2330 775 0 775 0 -2 -2327z"
+       id="path3814" />
+  </g>
+</svg>
